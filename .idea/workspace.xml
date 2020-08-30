@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SortsRev3" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+    <toolWindowGroupBy>Class</toolWindowGroupBy>
+  </component>
+  <component name="ProjectId" id="1Xu871jW2Mr0Im8idTDfoPB2jXh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FooBar3c">
+    <configuration name="A" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="A" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Allocation" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Allocation" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="B" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="B" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BeautyOfTree" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BeautyOfTree" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BikeTour" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BikeTour" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BuildingPalindromes" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BuildingPalindromes" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Bundling" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Bundling" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BusRoutes" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BusRoutes" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="C" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="C" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Candies" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Candies" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Candies2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Candies2" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Charity" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Charity" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Charity2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Charity2" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Contention" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Contention" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Countdown" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Countdown" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DiverseSubarray" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DiverseSubarray" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EnergyStones" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EnergyStones" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EvenDigits" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EvenDigits" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FooBar1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FooBar1" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FooBar2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FooBar2" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FooBar2b" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FooBar2b" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FooBar3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FooBar3" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FooBar3b" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FooBar3b" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FooBar3c" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FooBar3c" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Insertion" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Insertion" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LuckyDip" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="LuckyDip" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Merge" />
+      <module name="Algorithms, Part I" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="tiny.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Parcels" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Parcels" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PerfectSubarray" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="PerfectSubarray" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Plates" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Plates" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QueensAttackII" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="QueensAttackII" />
+      <module name="Algorithms, Part I" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RecordBreaker" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RecordBreaker" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RobotPathDecoding" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RobotPathDecoding" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StableWall" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="StableWall" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Tester" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Training" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Training" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WanderingRobot" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="WanderingRobot" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Workout" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Workout" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+    <configuration name="ariprog" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ariprog" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="barn1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="barn1" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="combo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="combo" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="crypt1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="crypt1" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dualpal" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="dualpal" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="milk" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="milk" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="milk2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="milk2" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="milk3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="milk3" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="namenum" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="namenum" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="numtri" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="numtri" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="palsquare" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="palsquare" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pprime" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="pprime" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="skidesign" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="skidesign" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sprime" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sprime" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="transform" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="transform" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wormhole" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="wormhole" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Insertion" />
+      <item itemvalue="Application.Tester" />
+      <item itemvalue="Application.milk2" />
+      <item itemvalue="Application.transform" />
+      <item itemvalue="Application.EvenDigits" />
+      <item itemvalue="Application.LuckyDip" />
+      <item itemvalue="Application.QueensAttackII" />
+      <item itemvalue="Application.Charity" />
+      <item itemvalue="Application.Charity2" />
+      <item itemvalue="Application.namenum" />
+      <item itemvalue="Application.palsquare" />
+      <item itemvalue="Application.dualpal" />
+      <item itemvalue="Application.milk" />
+      <item itemvalue="Application.barn1" />
+      <item itemvalue="Application.crypt1" />
+      <item itemvalue="Application.combo" />
+      <item itemvalue="Application.wormhole" />
+      <item itemvalue="Application.skidesign" />
+      <item itemvalue="Application.ariprog" />
+      <item itemvalue="Application.milk3" />
+      <item itemvalue="Application.numtri" />
+      <item itemvalue="Application.pprime" />
+      <item itemvalue="Application.Allocation" />
+      <item itemvalue="Application.Plates" />
+      <item itemvalue="Application.sprime" />
+      <item itemvalue="Application.Workout" />
+      <item itemvalue="Application.Bundling" />
+      <item itemvalue="Application.BikeTour" />
+      <item itemvalue="Application.BusRoutes" />
+      <item itemvalue="Application.RobotPathDecoding" />
+      <item itemvalue="Application.WanderingRobot" />
+      <item itemvalue="Application.Countdown" />
+      <item itemvalue="Application.StableWall" />
+      <item itemvalue="Application.PerfectSubarray" />
+      <item itemvalue="Application.Candies" />
+      <item itemvalue="Application.Candies2" />
+      <item itemvalue="Application.Training" />
+      <item itemvalue="Application.Parcels" />
+      <item itemvalue="Application.Contention" />
+      <item itemvalue="Application.BuildingPalindromes" />
+      <item itemvalue="Application.EnergyStones" />
+      <item itemvalue="Application.DiverseSubarray" />
+      <item itemvalue="Application.A" />
+      <item itemvalue="Application.B" />
+      <item itemvalue="Application.C" />
+      <item itemvalue="Application.RecordBreaker" />
+      <item itemvalue="Application.BeautyOfTree" />
+      <item itemvalue="Application.FooBar1" />
+      <item itemvalue="Application.FooBar2" />
+      <item itemvalue="Application.FooBar2b" />
+      <item itemvalue="Application.FooBar3" />
+      <item itemvalue="Application.FooBar3b" />
+      <item itemvalue="Application.FooBar3c" />
+      <item itemvalue="Application.Merge" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Merge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1581884447540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581884447540</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="651" y="424" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1581884534656">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="651" y="424" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-131.-1177.1920.1177/0.23.1680.1027@0.23.1680.1027" timestamp="1581884534656" />
+  </component>
+</project>
